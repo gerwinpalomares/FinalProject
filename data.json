@@ -1,0 +1,52 @@
+{
+    "countries": [
+        {
+            "country": "Italy",
+            "cities": [
+                {
+                    "name": "Rome",
+                    "img": "rome.jpg",
+                    "description": "The capital city of Italy."
+                },
+                {
+                    "name": "Milan",
+                    "img": "milan.jpg",
+                    "description": "Fashion capital of the world."
+                }
+            ]
+        },
+         {
+            "country": "Philippines",
+            "cities": [
+                {
+                    "name": "Manila",
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Manila_Harbour_View_by_night_%28Thomas_Yie%29_-_Flickr.jpg/640px-Manila_Harbour_View_by_night_%28Thomas_Yie%29_-_Flickr.jpg",
+                    "description": "The capital city of Italy."
+                },
+                {
+                    "name": "Cebu",
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Osme%C3%B1a_Peak%2C_Cebu%2C_Philippines.jpg/640px-Osme%C3%B1a_Peak%2C_Cebu%2C_Philippines.jpg",
+                    "description": "Fashion capital of the world."
+                }
+            ]
+        }
+    ],
+    "recommendations": [
+        {
+            "category": "Beaches",
+            "items": [
+                {
+                    "name": "Boracay",
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Boracay_White_Beach.png/640px-Boracay_White_Beach.png",
+                    "description": "Boracay beach a heaven paradise of Philippines."
+                },
+                 {
+                    "name": "Palawan",
+                    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Corong_Corong%2C_El_Nido%2C_Palawan_Island%2C_Philippines.jpg/640px-Corong_Corong%2C_El_Nido%2C_Palawan_Island%2C_Philippines.jpg",
+                    "description": "The Tourist Capital."
+                }
+            ]
+        }
+    ]
+}
+
